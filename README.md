@@ -101,12 +101,12 @@ From the above characteristic table, we can directly write the next state equati
 Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
-### Procedure
+# Procedure
 /* write all the steps invloved */
 
 
 
-### PROGRAM 
+# PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 
@@ -115,10 +115,21 @@ Developed by: MERCY A
 RegisterNumber:  23012506
 
 */
+### JK Flipflop:
 
+![JK code](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/98101489-691c-40a3-89c6-2821ed6d7d75)
 
+### SR Flipflop:
 
+![SR code](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/80f4ca81-dad7-4bd0-9ef8-4df3758e73be)
 
+### D Flipflop:
+
+![D code](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/d4012f51-b39a-42f2-9a32-5fad470114ee)
+
+### T Flipflop:
+
+![T code](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/6434f2ce-3d6a-4717-a67f-729d9f57bfc9)
 
 
 # RTL LOGIC FOR FLIPFLOPS 
@@ -163,9 +174,6 @@ RegisterNumber:  23012506
 
 
 
+# RESULTS :
 
-
-
-
-
-# RESULTS 
+Thus, the program for flipflops is implemented and its functional table is successfully verified in quartus using Verilog programming.
