@@ -112,6 +112,8 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 
 
 Developed by: MERCY A 
+
+
 RegisterNumber:  23012506
 
 */
