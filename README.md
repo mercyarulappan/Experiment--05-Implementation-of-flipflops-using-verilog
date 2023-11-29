@@ -121,43 +121,43 @@ RegisterNumber:  23012506
 
 
 
-### RTL LOGIC FOR FLIPFLOPS 
+# RTL LOGIC FOR FLIPFLOPS 
 
-# JK Flipflop:
+### JK Flipflop:
 
 ![JK diagram](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/2eeb2b15-8425-47cd-94bb-69386e630927)
 
-# SR Flipflop:
+### SR Flipflop:
 
 ![SR diagram](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/0611c0f9-5fce-4300-9ffc-a1b4fb1f8801)
 
-# D Flipflop:
+### D Flipflop:
 
 ![D diagram](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/84592307-0b21-486d-b7f5-49976e39a431)
 
-# T Flipflop:
+### T Flipflop:
 
 ![T diagram](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/34638c68-910d-433f-b750-c960d26efe1d)
 
 
 
 
-### TIMING DIGRAMS FOR FLIP FLOPS 
+# TIMING DIGRAMS FOR FLIP FLOPS 
 
-# JK Flipflop:
+### JK Flipflop:
 
 ![JK wave](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/1eec689d-f106-4434-b353-d82b850aa98a)
 
-# SR Flipflop:
+### SR Flipflop:
 
 ![SR wave](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/3032c854-a4b7-4933-8ab8-d7315e7c2940)
 
-# D Flipflop:
+### D Flipflop:
 
 ![D wave](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/3acf6a08-91e9-4fbf-acd3-b4be1a8e59a7)
 
 
-# T Flipflop:
+### T Flipflop:
 
 ![T wave](https://github.com/mercyarulappan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149233730/ddd1545d-9ff6-4f5d-b289-2b50f844a6af)
 
@@ -168,4 +168,4 @@ RegisterNumber:  23012506
 
 
 
-### RESULTS 
+# RESULTS 
